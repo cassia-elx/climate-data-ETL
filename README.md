@@ -7,6 +7,9 @@ Libraries used:
 - Pandas
 - Selenium
 - datetime
+- json
+- time
+- warnings
 
 Data was obtained by web scraping historic climate data from [Weather Underground.](https://www.wunderground.com/)
 
